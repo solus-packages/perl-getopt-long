@@ -8,6 +8,8 @@ component  : programming.perl
 summary    : Getopt::Long - Extended processing of command line options
 description: |
     Getopt::Long - Extended processing of command line options
+rundeps    :
+    - perl-pod-usage
 setup      : |
     %perl_setup
 build      : |

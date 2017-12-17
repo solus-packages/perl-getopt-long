@@ -2,8 +2,8 @@
     <Source>
         <Name>perl-getopt-long</Name>
         <Packager>
-            <Name>Matthias Eliasson</Name>
-            <Email>matthias.eliasson@gmail.com</Email>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
         </Packager>
         <License>Artistic-1.0-Perl</License>
         <PartOf>programming.perl</PartOf>
@@ -27,11 +27,11 @@
     </Package>
     <History>
         <Update release="1">
-            <Date>2017-11-27</Date>
+            <Date>2017-12-17</Date>
             <Version>2.5</Version>
             <Comment>Packaging update</Comment>
-            <Name>Matthias Eliasson</Name>
-            <Email>matthias.eliasson@gmail.com</Email>
+            <Name>Bryan T. Meyers</Name>
+            <Email>bmeyers@datadrake.com</Email>
         </Update>
     </History>
 </PISI>
