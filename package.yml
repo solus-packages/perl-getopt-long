@@ -1,0 +1,16 @@
+name       : perl-getopt-long
+version    : 2.50
+release    : 1
+source     :
+    - https://cpan.metacpan.org/authors/id/J/JV/JV/Getopt-Long-2.50.tar.gz : 20881adb2b73e83825f9a0a3b141db11b3a555e1d3775b13d81d0481623e4b67
+license    : Artistic-1.0-Perl
+component  : programming.perl
+summary    : Getopt::Long - Extended processing of command line options
+description: |
+    Getopt::Long - Extended processing of command line options
+setup      : |
+    %perl_setup
+build      : |
+    %perl_build
+install    : |
+    %perl_install
