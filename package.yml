@@ -1,8 +1,8 @@
 name       : perl-getopt-long
-version    : '2.52'
-release    : 7
+version    : '2.54'
+release    : 8
 source     :
-    - https://cpan.metacpan.org/authors/id/J/JV/JV/Getopt-Long-2.52.tar.gz : 9dc7a7c373353d5c05efae548e7b123aa8a31d1f506eb8dbbec8f0dca77705fa
+    - https://cpan.metacpan.org/authors/id/J/JV/JV/Getopt-Long-2.54.tar.gz : 584ba3c99bb2d6b341375212f9b874613f706cfb01cee21b8a2676a98ab985fe
 homepage   : https://metacpan.org/pod/Getopt::Long
 license    : Artistic-1.0-Perl
 component  : programming.perl
